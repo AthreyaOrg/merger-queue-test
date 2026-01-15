@@ -2,5 +2,3 @@ steps:
 - label: "merge-queue smoke test"
   commands:
   - echo "Hello from Buildkite"
-  - echo "Branch: $BUILDKITE_BRANCH"
-  - echo "Commit: $BUILDKITE_COMMIT"

@@ -1,4 +1,4 @@
 steps:
 - label: "merge-queue smoke test"
   commands:
-  - echo "Hello from Buildkite"
+  - echo "Hello from Buildkite Athreya"
